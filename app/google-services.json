@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211523595065",
+    "project_id": "sellapp-eb995",
+    "storage_bucket": "sellapp-eb995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211523595065:android:93ab8dba38c6a0b75d56e8",
+        "android_client_info": {
+          "package_name": "com.example.uy.sellapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211523595065-0l8gjc680viq3fodptscge790gi9p9rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8EJixmE_nzkZdOE2M-g7kZeenztHuzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211523595065-0l8gjc680viq3fodptscge790gi9p9rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

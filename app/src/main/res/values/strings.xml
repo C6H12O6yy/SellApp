@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SellApp</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+    <string-array name="category">
+        <item>Sách</item>
+        <item>Quần áo</item>
+        <item>Đồ điện tử</item>
+        <item>Mỹ phẩm</item>
+        <item>Đồ chơi</item>
+    </string-array>
+</resources>
